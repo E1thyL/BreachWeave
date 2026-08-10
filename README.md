@@ -2,6 +2,13 @@
 
 BreachWeave 面向智能渗透测试场景的多 Agent 协作架构。
 
+## 分支导航
+
+- `main`：面向 CTF 场景的基础版本。
+- [`pentest`](https://github.com/m-sec-org/BreachWeave/tree/pentest)：面向实际渗透测试项目的增强版本。
+
+`pentest` 分支新增了本地项目与资产管理、自动 Planner 调度、项目级 Memory/Idea 协作、按资产提交测试报告，以及 Attack Flow 实时回放与统计等能力。
+
 ## 第一次启动
 
 ```bash
