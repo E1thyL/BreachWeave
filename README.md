@@ -5,9 +5,9 @@ BreachWeave 面向智能渗透测试场景的多 Agent 协作架构。
 ## 分支导航
 
 - `main`：面向 CTF 场景的基础版本。
-- [`pentest`](https://github.com/m-sec-org/BreachWeave/tree/pentest)：面向实际渗透测试项目的增强版本。
+- [`pentest`](https://github.com/m-sec-org/BreachWeave/tree/pentest)：**面向实际渗透测试项目的增强版本。**
 
-`pentest` 分支新增了本地项目与资产管理、自动 Planner 调度、项目级 Memory/Idea 协作、按资产提交测试报告，以及 Attack Flow 实时回放与统计等能力。
+**`pentest`** 分支新增了本地项目与资产管理、自动 Planner 调度、项目级 Memory/Idea 协作、按资产提交测试报告，以及 Attack Flow 实时回放与统计等能力。
 
 ## 第一次启动
 
@@ -21,6 +21,7 @@ bun run install && bun run web
 | ---------- | ---------- | --------------------------------------------------------------------------------------------------------------- | -------- | -------- | ------- |
 | 2026-04-13 | 2026-04-17 | [腾讯云黑客松智能渗透测试挑战赛（第二期）](https://zc.tencent.com/competition/competitionHackathon?code=cha004) | 线上初赛 | N/A      | 1 / 613 |
 | 2026-04-25 | 2026-04-25 | [腾讯云黑客松智能渗透测试挑战赛（第二期）](https://zc.tencent.com/competition/competitionHackathon?code=cha004) | 线下决赛 | 一等奖   | 1 / 613 |
+| - | - | [TsecBench 公开评测结果](https://tsecbench.zc.tencent.com/#intro) | 线下公开评测 |  成功率第二  | 2 / 14 |
 
 <a href="https://zc.tencent.com/competition/competitionHackathon?code=cha004">
     <img width="1604" height="460" alt="dc25eea9efae81999d4660a747aa0b9c" src="https://github.com/user-attachments/assets/2cda17c3-e668-4459-abc0-e46a745860be" />
